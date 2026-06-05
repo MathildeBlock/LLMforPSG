@@ -1,2 +1,2 @@
 # LLMforPSG
-Code for my master thesis
+Main scripts for my master thesis, most code were run either in the terminal or in jupyter notebooks. The notebooks include information not suitable for sharing and are not included in this repo. 
